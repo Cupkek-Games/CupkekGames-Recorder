@@ -1,0 +1,22 @@
+{
+  "name": "com.cupkekgames.recorder",
+  "displayName": "CupkekGames Recorder",
+  "version": "0.1.0",
+  "author": {
+    "name": "CupkekGames",
+    "url": "https://www.docs.cupkek.games"
+  },
+  "unity": "6000.5",
+  "documentationUrl": "https://docs.cupkek.games/",
+  "description": "Editor-only one-call play-mode capture built on Unity Recorder: schedule from edit mode, it enters play, records MP4 (main camera, game view, or an orbiting shot camera) or a stills sheet, then exits play itself. Optional world-clock seam lets a game drive its time-of-day per recorded frame.",
+  "keywords": [
+    "Editor",
+    "Recorder",
+    "Capture",
+    "Video",
+    "CupkekGames"
+  ],
+  "dependencies": {
+    "com.unity.recorder": "5.1.6"
+  }
+}
